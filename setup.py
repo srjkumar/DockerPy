@@ -3,10 +3,10 @@ from distutils.core import setup
 setup(
     name='DockerPy',
     version='0.1',
-    packages=[''],
+    packages=['DockerPy'],
     url='https://github.com/srjkumar/DockerPy',
     license='',
-    author='suraj',
+    author='Suraj Kumar',
     author_email='srjkumarxxx@gamil.com',
-    description='Under Devloping Script'
+    description='Under Developing Script'
 )
