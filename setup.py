@@ -8,5 +8,6 @@ setup(
     license='',
     author='Suraj Kumar',
     author_email='srjkumarxxx@gamil.com',
-    description='Under Developing Script'
+    description='Under Developing Scryipt',
+    requires=['docker-py', 'pyyaml',]
 )
