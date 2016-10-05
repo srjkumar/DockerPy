@@ -1,4 +1,0 @@
-
-
-
-print(tag('hello-world'))
